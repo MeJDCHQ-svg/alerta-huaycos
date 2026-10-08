@@ -1,0 +1,15 @@
+# Compilados
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Secretos y configuración local
+.env
+application-local.yml
+application-local.properties
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
